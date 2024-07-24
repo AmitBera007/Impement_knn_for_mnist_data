@@ -12,7 +12,7 @@ Download the MNIST dataset and place the files in the project directory.
 
 ## 4.Run the knn_mnist_data.ipynb file
 
-## Implementation Details
+# Implementation Details
 - Reads MNIST data from gzip files.
 - Splits the dataset into training, validation, and test sets.
 - Implements k-NN from scratch.
