@@ -1,7 +1,7 @@
 # MNIST k-NN Implementation
 This repository contains a Python implementation of k-NN for the MNIST dataset.
 ```sh
-git clone https://github.com/<username>/<repository>.git
+git clone https://github.com/AmitBera007/Impement_knn_for_mnist_data.git
 ```
 # Install the required dependencies
 pip install numpy matplotlib joblib
